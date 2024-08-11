@@ -1,0 +1,35 @@
+[
+    {
+        "profilePic" : "/static/media/profile.70e62af3e2edac7d4149.png" ,
+        "name" : "Adarsh Agrawalla" ,
+        "email" : "eee.23beeh93@silicon.ac.in",
+        "password" : "23beeh93",
+        "role" : "Admin User",
+        "number" : "123456789",
+        "address" : "xyzzzz",
+        "state" : "Odisha",
+        "zipcode" : "123456"
+    },
+    {
+        "profilePic" : "/static/media/profile.70e62af3e2edac7d4149.png" ,
+        "name" : "Akash" ,
+        "email" : "Akashsahoo05@gmail.com",
+        "password" : "sahoo05",
+        "role" : "Normal User",
+        "number" : "123456789",
+        "address" : "xyzzzz",
+        "state" : "Odisha",
+        "zipcode" : "123456"
+    },
+    {
+        "profilePic" : "/static/media/profile.70e62af3e2edac7d4149.png" ,
+        "name" : "Sahoo subham" ,
+        "email" : "subham56@gmail.com",
+        "password" : "subham56",
+        "role" : "Normal User",
+        "number" : "123456789",
+        "address" : "xyzzzz",
+        "state" : "Odisha",
+        "zipcode" : "123456"
+    }
+]
